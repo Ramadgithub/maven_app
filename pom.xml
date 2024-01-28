@@ -12,7 +12,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
 
-      <version>2.2.2</version>
+      <version>3.3.3</version>
 
       <scope>test</scope>
     </dependency>
