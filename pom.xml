@@ -12,7 +12,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId
 
-      <version>66666</version
+      <version>11111111111</version
       <scope>test</scope>
     </dependency>
   </dependencies>
